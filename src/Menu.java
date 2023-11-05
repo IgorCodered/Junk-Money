@@ -30,6 +30,8 @@ public class Menu
         System.out.println("4. Положить деньги в копилку");
         System.out.println("5. Посмотреть доходы за месяц");
         System.out.println("6. Выход");
+        System.out.println("6. Выход");
+        System.out.println("6. Тестовая менюшка для коммита");
         mainMenuSelecter();
     }
     void displayMenuExpensive() {
@@ -49,6 +51,7 @@ public class Menu
         System.out.println("3. Посмотреть баланс копилок по отдельным счетам");
         System.out.println("4. Создать накопительный счёт");
         System.out.println("5. Назад.");
+        System.out.println("Ещё одна тест строка");
         savingMenuSelecter();
     }
     void displayMenuSavingsOne() {
